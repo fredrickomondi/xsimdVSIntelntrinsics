@@ -15,9 +15,9 @@ Perform FMA operations on 10000 floating point data points and measure the time 
 
 
 ### Results ##
-<br> Elapsed time for FMA operation using native Intel AVX2 Instrinsic is :: 6 microseconds<br> 
+<br> Elapsed time for FMA operation using native Intel AVX2 Instrinsic is :: 6 microseconds
 
-<br> Elapsed time for FMA operation using XSIMD wrapper for AVX2 is :: 23 microseconds<br> 
+<br> Elapsed time for FMA operation using XSIMD wrapper for AVX2 is :: 23 microseconds
 
-<br> Elapsed time for Scalar FMA operation using standard libs is :: 18 microseconds<br> 
+<br> Elapsed time for Scalar FMA operation using standard libs is :: 18 microseconds
 
